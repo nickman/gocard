@@ -1,0 +1,15 @@
+
+[[override]]
+  name = "github.com/prometheus/client_golang"
+  #version = "0.8.0"
+  revision = "82f5ff156b29e276022b1a958f7d385870fb9814"
+
+[[override]]
+    name = "github.com/OneOfOne/xxhash"
+    version = "v1.2.2"
+
+[[override]]
+    name = "github.com/clarkduvall/hyperloglog"
+    revision = "a0107a5d80040c9b5efb012203b9a08d6817d196"
+
+    
